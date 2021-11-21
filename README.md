@@ -1,6 +1,18 @@
+# TS playground
+
+## Launch scripts
+
+### Run in the terminal
+
 ```
-npx ts-node src/some-file.ts
+npm start src/some-file.ts
 ```
+
+### Debug run in VS code
+
+There is config file for running current file `.vscode/launch.json`.
+Just open `Run and Debug` (see in the sidebar).
+In the top menu you'll see "play" button, it will run currently selected file in debug mode (meaning breakpoints will work).
 
 ## 3rd party libraries
 
