@@ -1,4 +1,3 @@
-*.ts
-*.tsx
-*.js
-*.jsx
+*
+!.gitignore
+!README.md
