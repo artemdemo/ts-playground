@@ -7,7 +7,7 @@ Typescript playground repo. Minimum setup to run TS files on node.
 ### Run in the terminal
 
 ```
-npm start src/some-file.ts
+npm start src/test.ts
 ```
 
 ### Debug run in VS code
